@@ -1,0 +1,456 @@
+{
+    "tables": [
+      {
+        "name": "Table_10_1",
+        "collection": "MasterSymbol",
+        "data": [
+          {
+            "localid": "H",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "H",
+            "description": "Organic or organotechnic layer_ not forming part of a litter layer_ water saturation > 30 consecutive days in most years or drained_ generally regarded as peat layer or organic limnic layer. Note: Under water saturation_ completely undecomposed organic layers_ consisting of 100% (by volume_ related to all dead plant residues) recognizable dead plant tissues may exist. However_ most H layers underwent at least some decomposition_ show < 100% (by volume) recognizable dead plant tissues and are considered to be soil horizons. If the H is used for organotechnic layers the suffix u is mandatory.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "O",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "O",
+            "description": "Organic horizon or organotechnic layer_ not forming part of a litter layer_ water saturation ≤ 30 consecutive days in most years and not drained_ generally regarded as non-peat and non-limnic horizon. Note: If the O is used for organotechnic layers the suffix u is mandatory.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "A",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "A",
+            "description": "Mineral horizon at the mineral soil surface or buried_ contains organic matter that has at least partly been modified in-situ_ soil structure and/or structural elements created by agricultural practices in ≥ 50% (by volume_ related to the fine earth) i.e. rock structure if present in < 50% (by volume)_ cultivated mineral layers are designated A even if they belonged to another layer before cultivation.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "E",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "E",
+            "description": "Mineral horizon_ has lost by downward movement within the soil (vertically or laterally) one or more of the following_ Fe_ Al_ and/or Mn species_ clay minerals_ organic matter.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "B",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "B",
+            "description": "Mineral horizon that has (at least originally) formed below an A or E horizon_ rock structure_ if present_ in < 50% (by volume_ related to the fine earth)_ one or more of the following processes of soil formation_ - formation of soil aggregate structure_ - formation of clay minerals and/or oxides_ - accumulation by illuviation processes of one or more of the following_ Fe_ Al_ and/or Mn species_ clay minerals_ organic matter_ silica_ carbonates_ gypsum_ - removal of carbonates or gypsum_ Note_ B horizons may show other accumulations as well.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "C",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "C",
+            "description": "Mineral layer_ unconsolidated (can be cut with a spade when moist)_ or consolidated and more fractured than the R layer_ no soil formation_ or soil formation that does not meet the criteria of the A_ E_ and B horizon.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "R",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "R",
+            "description": "Consolidated rock_ air-dry or drier specimens_ when placed in water_ will not slake within 1 hour_ fractures_ if present_ occupy < 10% (by volume_ related to the whole soil)_ not resulting from the cementation of a soil horizon.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "I",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "I",
+            "description": "≥ 75% ice (by volume_ related to the whole soil)_ permanent_ below an H_ O_ A_ E_ B or C layer.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "W",
+            "Language": "en",
+            "collection": "MasterSymbol",
+            "label": "W",
+            "description": "Permanent water above the soil surface or between layers_ may be seasonally frozen.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-101",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          }
+        ]
+      },
+      {
+        "name": "Table_10_2",
+        "collection": "Suffixes",
+        "data": [
+          {
+            "localid": "a",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "a",
+            "description": "Organic material in an advanced state of decomposition_ after gently rubbing_ ≤ one sixth of the volume (related to the fine earth plus all dead plant residues) consists of recognizable dead plant tissues [a like advanced].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "b",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "b",
+            "description": "Buried horizon_ first_ the horizon has formed_ and then_ it was buried by mineral material [b like buried].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "c",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "c",
+            "description": "Concretions and/or nodules (only used if following another suffix (g_ k_ q_ v_ y) that indicates the accumulated substance) [c like concretion].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "d",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "d",
+            "description": "Drained [d like drained].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "e",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "e",
+            "description": "Organic material in an intermediate state of decomposition_ after gently rubbing_ ≤ two thirds and > one sixth of the volume (related to the fine earth plus all dead plant residues) consist of recognizable dead plant tissues [e like intermediate]. Saprolite [e like saprolite].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "f",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "f",
+            "description": "Permafrost [f like frost].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "g",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "g",
+            "description": "Accumulation of Fe and/or Mn oxides (related to the fine earth plus accumulations of Fe and/or Mn oxides of any size and any cementation class) predominantly inside soil aggregates_ if present_ and loss of these oxides on aggregate surfaces (A_ B_ and C horizons)_ or loss of Fe and/or Mn by lateral subsurface flow (pale colours in ≥ 50% of the exposed area_ E horizons)_ transport in reduced form [g like stagnic].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "h",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "h",
+            "description": "Significant amount of organic matter_ in A horizons at least partly modified in situ_ in B horizons predominantly by illuviation_ in C horizons forming part of the parent material [h like humus].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "i",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "i",
+            "description": "Organic material in an initial state of decomposition_ after gently rubbing_ > two thirds of the volume (related to the fine earth plus all dead plant residues) consist of recognizable dead plant tissues [i like initial]. Slickensides and/or wedge-shaped aggregates [i like slickenside].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "j",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "j",
+            "description": "Accumulation of jarosite and/or schwertmannite (related to the fine earth plus accumulations of jarosite and/or schwertmannite of any size and any cementation class) [j like jarosite].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "l",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "l",
+            "description": "Accumulation of Fe and/or Mn in reduced form by upward-moving capillary water with subsequent oxidation (related to the fine earth plus accumulations of Fe and/or Mn oxides of any size and any cementation class)_ accumulation predominantly at soil aggregate surfaces_ if present_ and reduction of these oxides inside the aggregates [l like capillary].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "m",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "m",
+            "description": "Pedogenic cementation in ≥ 50% of the volume (related to the whole soil)_ cementation class_ at least moderately cemented (only used if following another suffix (k_ l_ q_ s_ v_ y_ z) that indicates the cementing agent) [m like cemented].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "n",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "n",
+            "description": "Exchangeable sodium percentage ≥ 6% [n like natrium].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "o",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "o",
+            "description": "Residual accumulation of large amounts of pedogenic oxides in strongly weathered horizons [o like oxide].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "p",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "p",
+            "description": "Modification by cultivation (e_g_ ploughing)_ mineral layers are designated A_ even if they belonged to another layer before cultivation [p like plough].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "q",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "q",
+            "description": "Accumulation of secondary silica (related to the fine earth plus accumulations of secondary silica of any size and any cementation class) [q like quartz].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "r",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "r",
+            "description": "Strong reduction [r like reduction].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "s",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "s",
+            "description": "Accumulation of Fe oxides_ Mn oxides and/or Al (related to the fine earth plus accumulations of Fe oxides_ Mn oxides and/or Al of any size and any cementation class) by vertical illuviation processes from above [s like sesquioxide].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "t",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "t",
+            "description": "Accumulation of clay minerals (with or without associated oxides) by illuviation processes [t like German Ton_ clay].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "u",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "u",
+            "description": "Containing artefacts or consisting of artefacts (related to the whole soil) [u like urban].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "v",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "v",
+            "description": "Plinthite (related to the fine earth plus accumulations of Fe and/or Mn oxides of any size and any cementation class) [the suffix v has no connotation].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "w",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "w",
+            "description": "Formation of soil aggregate structure and/or oxides and/or clay minerals (layer silicates_ allophanes and/or imogolites) [w like weathered].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "x",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "x",
+            "description": "Fragic characteristics (soil aggregates with a rupture resistance of at least firm and a brittle manner of failure_ not allowing roots to enter the aggregates) [the x refers to the impossibility to enter the aggregates].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "y",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "y",
+            "description": "Accumulation of secondary gypsum (related to the fine earth plus accumulations of secondary gypsum of any size and any cementation class) [y like gypsum or Spanish yeso].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "z",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "z",
+            "description": "Presence of readily soluble salts [z like Dutch zout].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "/@",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "/@",
+            "description": "Cryogenic alteration.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "α",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "α",
+            "description": "Presence of primary carbonates (in R layers related to the rock_ in all other layers related to the fine earth) [α like carbonate] and no prominent accumulation of secondary carbonates.",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "β",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "β",
+            "description": "Bulk density ≤ 0_9 kg dm-3 [β like bulk density].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "γ",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "γ",
+            "description": "Containing ≥ 5% (by grain count) volcanic glasses in the fraction between > 0_02 and ≤ 2 mm [γ like glass].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "δ",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "δ",
+            "description": "High bulk density (natural or anthropogenic - not due to cementation (symbol ..m)_ not in fragic horizons (symbol x)_ not in layers with retic properties (symbol b//E))_ so that roots cannot enter_ except along cracks [δ like dense].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "λ",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "λ",
+            "description": "Deposited in a body of water (limnic) [λ like limnic].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "ρ",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "ρ",
+            "description": "Relict features (only used if following another suffix (g_ k_ l_ p_ @) that indicates the relict feature) [ρ like relict].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "σ",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "σ",
+            "description": "Permanent water saturation and no redoximorphic features [σ like saturation].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "τ",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "τ",
+            "description": "Human-transported natural material (related to the whole soil) [τ like transported].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          },
+          {
+            "localid": "φ",
+            "Language": "en",
+            "collection": "Suffixes",
+            "label": "φ",
+            "description": "Accumulation of Fe and/or Mn in reduced form by lateral subsurface flow with subsequent oxidation (related to the fine earth plus accumulations of Fe and/or Mn oxides of any size and any cementation class) [φ like flow].",
+            "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-03-horizon-layer-designations.html#tbl-a3-102",
+            "status": "https://inspire.ec.europa.eu/registry/status/valid",
+            "parent": ""
+          }
+        ]
+      }
+    ]
+  }
