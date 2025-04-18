@@ -1,4 +1,3 @@
-<!-- src/views/ToolsView.vue -->
 <script>
 import Tools from "../components/principal/Tools.vue";
 

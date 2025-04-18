@@ -1,0 +1,6 @@
+@use "./../partials/_variables.scss" as *;
+
+body.light-mode {
+    background-color: $bglight;
+    color: $colorlight;
+}
